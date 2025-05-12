@@ -6,18 +6,6 @@ Hi there! I'm a **Software Developer** with a love for building clean, scalable,
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**  
-`Python` | `Django` | `PHP` | `Flutter` | `JSP` | `HTML` | `CSS` | `JavaScript` | `Bootstrap`
-
-**Databases**  
-`MySQL` | `SQLite` | `Firebase` | `Supabase`
-
-**Tools & Platforms**  
-`Git` | `VS Code` | `Android Studio` | `Postman` | `Vercel` | `Netlify` | `Apache`
-
----
 
 ### 📌 Quick Facts
 
