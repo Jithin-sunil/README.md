@@ -47,13 +47,6 @@ Hi there! I'm a **Software Developer** with a love for building clean, scalable,
 
 ---
 
-## 🎮 Play a Mini Game – Tic Tac Toe  
-Here’s a fun little game I built for entertainment. Give it a try!
-
-👉 [Play Tic-Tac-Toe on CodePen](https://codepen.io/jithin_sunil/pen/zYzZxbK)
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=jithin-sunil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
